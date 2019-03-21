@@ -1,0 +1,21 @@
+{
+  "name": "micro-morgan",
+  "version": "0.1.0",
+  "description": "Morgan http request logger middleware for zeit's micro framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickcis/micro-morgan.git"
+  },
+  "keywords": [
+    "micro",
+    "http",
+    "request",
+    "logger",
+    "morgan"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "morgan": "^1.9.1"
+  }
+}
